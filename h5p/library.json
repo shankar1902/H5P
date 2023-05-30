@@ -1,0 +1,16 @@
+{
+  "title": "h5p",
+  "description": "h5p",
+  "majorVersion": 1,
+  "minorVersion": 0,
+  "patchVersion": 0,
+  "runnable": 1,
+  "author": "h5p",
+  "license": "MIT",
+  "machineName": "H5P.h5p",
+  "preloadedJs": [
+    {
+      "path": "index.js"
+    }
+  ]
+}
